@@ -1,4 +1,4 @@
-# 📚 Utilisation du Notebook CNN_00 sur Google Colab  
+# Utilisation du Notebook CNN_00 sur Google Colab  
 
 Ce dépôt contient le notebook **CNN_00** destiné aux étudiants.  
 Vous **ne pouvez pas** modifier directement ce fichier sur GitHub, mais vous pouvez en faire une copie pour travailler dessus.  
