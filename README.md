@@ -37,13 +37,7 @@ Si vous préférez travailler en local :
 
 ---
 
-## 🔹 4. Besoin d'aide ?  
-
-Si vous avez des questions, n'hésitez pas à me contacter ou à poser vos questions en classe. 🚀  
-
----
-
-## 🔹 5. Bouton direct pour ouvrir dans Colab  
+## 5. Bouton direct pour ouvrir dans Colab  
 
 Cliquez sur ce bouton pour ouvrir le notebook directement dans Google Colab :  
 
@@ -51,7 +45,7 @@ Cliquez sur ce bouton pour ouvrir le notebook directement dans Google Colab :
 
 ---
 
-📢 **Résumé :**  
-✅ Vous **ne pouvez pas modifier** le notebook sur GitHub.  
-✅ Vous **devez enregistrer une copie** sur **Google Drive** pour travailler dessus.  
-✅ Vous pouvez aussi **le télécharger** et l'ouvrir manuellement.  
+**Résumé :**  
+Vous **ne pouvez pas modifier** le notebook sur GitHub.  
+Vous **devez enregistrer une copie** sur **Google Drive** pour travailler dessus.  
+Vous pouvez aussi **le télécharger** et l'ouvrir manuellement.  
